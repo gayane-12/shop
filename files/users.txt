@@ -1,0 +1,3 @@
+d5ad87dd-041b-450f-97df-2133e1aa8171,gayane,miranyan,g@mail.ru,123456,seller,
+b62937a8-1fb1-465f-ba59-e72111e19af1,Gagik,Asatryan,gagik@mail.tu,123456,buyer,
+47ed5d86-7fd1-4172-add5-cf13a22852bb,admin,adminyan,admin@mail.ru,1234567,admin,
